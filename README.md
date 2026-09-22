@@ -1,7 +1,7 @@
 # exam_coursera
 it was a coursera test 
 
-Simple Interest Calculator (Python)
+# Simple Interest Calculator (Python)
 
 Project Overview
 This project is a simple Python program that calculates **Simple Interest (SI)** based on user inputs for **Principal (P)**, **Rate of Interest (R)**, and **Time (T)**.  
