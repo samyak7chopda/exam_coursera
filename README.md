@@ -1,5 +1,4 @@
 # exam_coursera
-it was a coursera test 
 
 # Simple Interest Calculator (Python)
 
